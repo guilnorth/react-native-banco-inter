@@ -1,0 +1,1 @@
+# react-native-banco-inter
