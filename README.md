@@ -8,7 +8,7 @@ Disponível em:
 
 > [Em Breve]
 
-![](src/assets/ios-screen.png)
+![](/assets/ios-screen.png)
 
 ## Instalação Local
 
