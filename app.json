@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "App para estudo de layout seguindo o aplicativo do Banco Inter",
+    "githubUrl": "https://github.com/guilnorth/react-native-banco-inter"
   }
 }

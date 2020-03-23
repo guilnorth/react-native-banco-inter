@@ -6,9 +6,10 @@
 
 Disponível em:
 
-> [Em Breve]
+> https://expo.io/@guilherme145/react-native-banco-inter
 
-![](/assets/ios-screen.png)
+<img src="assets/ios-screen.png" width="340">
+
 
 ## Instalação Local
 
