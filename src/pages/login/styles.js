@@ -26,7 +26,7 @@ const ViewContainer = styled.SafeAreaView`
 `;
 const HeaderContainer = styled.SafeAreaView`
   align-self: stretch;
-  background: ${PRIMARY};
+  /* background: ${PRIMARY}; */
   ${CenterCenter};
   height: ${height * 0.3}px;
 `;
@@ -89,12 +89,11 @@ const BtnChangeAccountText = styled.Text`
 `;
 const BtnSignIn = styled.TouchableOpacity`
   ${CenterCenter}
-  margin-top: 25px;
+  /* margin-top: 25px; */
   width: 220px;
   height: 50px;
-
-  border-radius: 5px;
-  background-color: #f96502;
+  /* border-radius: 5px; */
+  /* background-color: #f96502; */
 `;
 const BtnSignInText = styled.Text`
   font-size: 15px;
